@@ -1,0 +1,17 @@
+{
+  "name": "sgi.nodejs.backend",
+  "version": "1.0.0",
+  "description": "This is the backend of the SGI Project in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andre Evangelista",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "nodemon": "^1.11.0"
+  }
+}
